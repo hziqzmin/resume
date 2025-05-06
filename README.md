@@ -10,8 +10,9 @@ Seoul, South Korea | muhd.haziqazmin@gmail.com | [LinkedIn: haziq azmin](https:/
 
 ## Projects
 - Disaster Alert App
+  - 
 - Shoe Retail Website
-- 
+  - 
 ## Leadership & Activities
 
 ## Skills
