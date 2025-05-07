@@ -1,5 +1,3 @@
-# Resume
-
 ## MUHAMMAD HAZIQ BIN MUHAMAD NUR AZMIN
 
 Seoul, South Korea | muhd.haziqazmin@gmail.com | [LinkedIn: haziq azmin](https://linkedin.com/in/haziq-azmin-098182215) • [GitHub: hziqzmin](https://github.com/hziqzmin)
